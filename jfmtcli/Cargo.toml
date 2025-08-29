@@ -1,0 +1,7 @@
+[package]
+name = "jfmtcli"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+libjfmt = { path = "../libjfmt" }
