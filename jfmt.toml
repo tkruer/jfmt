@@ -1,0 +1,7 @@
+indent_style = "tabs"
+# Parsed but not enforced yet
+indent_width = 4
+
+# Raise the threshold so the example long line is ok
+max_line_length = 200
+
